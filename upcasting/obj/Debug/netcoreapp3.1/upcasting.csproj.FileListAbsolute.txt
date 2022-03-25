@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\bin\Debug\netcoreapp3.1\upcasting.exe
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\bin\Debug\netcoreapp3.1\upcasting.deps.json
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\bin\Debug\netcoreapp3.1\upcasting.runtimeconfig.json
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\bin\Debug\netcoreapp3.1\upcasting.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\bin\Debug\netcoreapp3.1\upcasting.dll
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\bin\Debug\netcoreapp3.1\upcasting.pdb
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\obj\Debug\netcoreapp3.1\upcasting.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\obj\Debug\netcoreapp3.1\upcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\obj\Debug\netcoreapp3.1\upcasting.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\obj\Debug\netcoreapp3.1\upcasting.AssemblyInfo.cs
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\obj\Debug\netcoreapp3.1\upcasting.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\obj\Debug\netcoreapp3.1\upcasting.dll
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\obj\Debug\netcoreapp3.1\upcasting.pdb
+C:\Users\nargi\Desktop\New folder\upcasting\upcasting\obj\Debug\netcoreapp3.1\upcasting.genruntimeconfig.cache
